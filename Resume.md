@@ -19,7 +19,7 @@ Aug 2021 - May 2025
 
 GPA (unweighted) - 3.8/4
 
-SAT - 770 Math, 710 English, 1480 Total
+SAT - 800 Math, 710 English, 1510 Total
 
 AP Dipolama
 
