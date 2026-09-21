@@ -26,11 +26,8 @@ Sep 2025 - Current
 
 **Computer Science and Design** at Khoury School of Computer Sciences
 
-Related Coursework: Computer Systems, Algorithms, Computational Typography, Programming in C++, Creative Frabrication, Interactive Design
+Related Coursework: Interactive Design, Making with Arts and Forms, Computational Typography, Creative Frabrication, Program Design & Implementation 2 & 3
 
-## Certifications
-
-USACO Silver (2023), [Amateur Radio License 2026 (KC1YXS)](https://www.qrz.com/db/KC1YXS)
 
 ## Experience
 
@@ -61,11 +58,6 @@ Aug 2025 - Current
 - Main organizer for a self-organizered hacker "hang out" focusing on free and open source software, right to privacy, and spreading technological awareness
 - Organized presentations, events and hackathons, outreach daily, and collaborating with chapters all across America bi-monthly
 
-### Club Member - [W1KBN Northeastern Wireless Club](https://nuwireless.org/)
-Aug 2026 - Current
-*Facilities Manager Jan 2026 - May 2026*
-
-- Maintained club space weekly, recruited members, and participated in club competitions
 
 ## Personal Projects
 
@@ -81,38 +73,17 @@ July 2026 - Current
 
 - A terminal clicker-game inspired by cellular automata and marine life using rust, ruscii libraries, and bash scripts
 
-### [BF Compiler](https://github.com/jaydenseepdeprived/Brainfuck-Helloworld)
-June 2026 - Sep 2026
-
-- BF programming language compiler written in rust
-
 ### DIY Music Synth Using Recycled Materials
 Aug 2026 - Current
 
 - Sourced parts from disposable electronics and old technology
 - Hacked electronics like vape pens to create musical synth instrument
 
-### [Text Editor](https://github.com/jaydenseepdeprived/rust-text-editor)
-April 2026 - Current
-
-- Terminal text editor made in rust
-
-### [Falkor: Alternative Distance Detection with Stationary Computer Vision](https://github.com/Gob1inSharks/Distance-Detection-with-Stationary-Computer-Vision/tree/main)
-Sep 2022 - Mar 2024
-
-- Researched and developed on a distance detection and object recognition system for airport trolleys weekly
-- Approved Patent (number: CN221678736U)
-- Used ROS2, Raspberry Pi, Python, OpenCV, Pytorch, Mediapipe, and MQTT protocols for IoT and robotics components
-
-## Other Skills & Tools
+## Skills & Tools
 
 - **Design Software**: Adobe Suite, Photoshop, **Illustrator**, **InDesign**, Dreamweaver, Premiere Pro, **GIMP**, **Inkscape**, **Fusion 360**, Blender, **Godot**, Rhinoceres, Figma, **Cavalry**
 - **Fabrication Tools**: **Soldering**, **3d Printer**, Resin Printer, Laser Cutter, CNC Machine
-- **Other Office Software**: Microsoft Suite, Google Office, Python Database/Excel Processing
-- **Software Tools**: GNU/Linux, Arch Linux, NixOS, Vim, NeoVim, Emacs, Qemu, VSCode/Cursor
-- **AI Tools**: Cursor, Claude Code, Ollama
-- **Computer Languages**: **Rust**, **Python**, **C++**, Java, Go, LaTeX, Markdown, Lua, Nix
-- **Embedded**: **Raspberry Pi**, **ESP32**, RISC V, Arduino
+- **Technical Tools**: **Rust**, **Python**, **C++**, LaTex, Arduino, Raspberry Pi
 - **Bilingual in Chinese**
 
 ## Interests

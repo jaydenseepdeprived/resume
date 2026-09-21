@@ -6,7 +6,7 @@ Academic: chen.jayd@northeastern.edu
 
 Personal: jaydenseepdeprived@gmail.com
 
-Availiable Jan - June 2027
+Availiable Jan - June 2027 for Software Development, Embedded Systems, or Systems Engineer
 
 [Previous: github.com/Gob1inSharks](https://github.com/Gob1inSharks)
 
@@ -15,7 +15,6 @@ Availiable Jan - June 2027
 [LinkedIN](https://www.linkedin.com/in/jayden-chen-542a43386/)
 
 [Website](https://gob1insharks.github.io/)
-Jan 2026 - May 2026, 
 
 ## Education
 
@@ -26,7 +25,7 @@ Sep 2025 - Current
 
 **Computer Science and Design** at Khoury School of Computer Sciences
 
-Related Coursework: Computer Systems, Algorithms, Computational Typography, Programming in C++, Creative Frabrication, Interactive Design
+Related Coursework: Computer Systems, Algorithms, Programming in C++, Creative Frabrication
 
 ## Certifications
 
@@ -76,26 +75,10 @@ Jan 2026 - Current
 - Educated and spread awareness on information about mesh net, including open & decentralized infrastructure, LoRA technology, and software encryption at club meetings and website
 - Used microchips such as ESP32 with LoRA technology, paired with frabrication tools like 3d printers and soldering
 
-### [Computational Art Inspired by Cellular Automata](https://github.com/jaydenseepdeprived/corascii)
-July 2026 - Current
-
-- A terminal clicker-game inspired by cellular automata and marine life using rust, ruscii libraries, and bash scripts
-
 ### [BF Compiler](https://github.com/jaydenseepdeprived/Brainfuck-Helloworld)
 June 2026 - Sep 2026
 
 - BF programming language compiler written in rust
-
-### DIY Music Synth Using Recycled Materials
-Aug 2026 - Current
-
-- Sourced parts from disposable electronics and old technology
-- Hacked electronics like vape pens to create musical synth instrument
-
-### [Text Editor](https://github.com/jaydenseepdeprived/rust-text-editor)
-April 2026 - Current
-
-- Terminal text editor made in rust
 
 ### [Falkor: Alternative Distance Detection with Stationary Computer Vision](https://github.com/Gob1inSharks/Distance-Detection-with-Stationary-Computer-Vision/tree/main)
 Sep 2022 - Mar 2024
@@ -106,15 +89,9 @@ Sep 2022 - Mar 2024
 
 ## Other Skills & Tools
 
-- **Design Software**: Adobe Suite, Photoshop, **Illustrator**, **InDesign**, Dreamweaver, Premiere Pro, **GIMP**, **Inkscape**, **Fusion 360**, Blender, **Godot**, Rhinoceres, Figma, **Cavalry**
-- **Fabrication Tools**: **Soldering**, **3d Printer**, Resin Printer, Laser Cutter, CNC Machine
-- **Other Office Software**: Microsoft Suite, Google Office, Python Database/Excel Processing
 - **Software Tools**: GNU/Linux, Arch Linux, NixOS, Vim, NeoVim, Emacs, Qemu, VSCode/Cursor
-- **AI Tools**: Cursor, Claude Code, Ollama
+- **AI Tools**: **RAG**, **Ollama**, Cursor, Claude Code, CoPilot
 - **Computer Languages**: **Rust**, **Python**, **C++**, Java, Go, LaTeX, Markdown, Lua, Nix
 - **Embedded**: **Raspberry Pi**, **ESP32**, RISC V, Arduino
 - **Bilingual in Chinese**
 
-## Interests
-
-Ham Radio, Bike Repair, Film, Guitar
